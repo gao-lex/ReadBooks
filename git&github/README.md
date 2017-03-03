@@ -1,2 +1,2 @@
 # git
-![](git.png)
+![](git.svg)
