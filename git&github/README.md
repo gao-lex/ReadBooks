@@ -1,6 +1,6 @@
 # git
 
-![](git.svg)
+![](git.pn)
 
 git
 
