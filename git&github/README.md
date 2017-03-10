@@ -1,6 +1,6 @@
 # git
 
-![](git.pn)
+![](git.png)
 
 git
 
