@@ -1,0 +1,3 @@
+Java 是由Sun Microsystems公司于1995年5月推出的高级程序设计语言。
+Java可运行于多个平台，如Windows, Mac OS，及其他多种UNIX版本的系统。
+本教程通过简单的实例将让大家更好的了解JAVA编程语言。
