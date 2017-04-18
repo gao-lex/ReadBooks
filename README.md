@@ -18,6 +18,7 @@
     - [Java循环结构–for,while及do…while](Java笔记/Java循环结构.md)
     - [Java分支结构–if…else/switch](Java笔记/Java分支结构.md)
     - [JavaNumber&Math类](Java笔记/JavaNumber&Math类.md)
+    - [Java整形缓存机制](Java笔记/Java整形缓存机制.md)
     - [JavaCharacter类](Java笔记/JavaCharacter类.md)
     - [JavaString类](Java笔记/JavaString类.md)
     - [JavaStringBuffer和StringBuilder类](Java笔记/JavaStringBuffer和StringBuilder类.md)
